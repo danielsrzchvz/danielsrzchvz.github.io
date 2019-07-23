@@ -1,0 +1,33 @@
+body {
+	background-image: linear-gradient(blue, white); font-family: 'Work Sans', sans-serif;
+}
+
+
+
+h1 {color: white; text-align: center;}
+
+      	 ol {font-weight:bold;}
+
+      	 a {
+      	 	color: white; text-decoration: none;
+      	 }
+
+      	 #wet {
+      	 	background-image: linear-gradient(white, blue); color: white; border-style: solid;
+      	 }
+
+      	 #hometag {
+                  margin-left: 50px;
+             }
+      	 
+             #contacttag {
+                  margin-left: 280px;
+             }
+
+            #aboutmetag {
+            margin-left: 280px;
+                  }
+
+            #projecttag {
+                  margin-left: 280px;
+            }
